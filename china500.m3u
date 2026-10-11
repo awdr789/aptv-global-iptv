@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #PLAYLIST: 中国电视500台扩展版｜去重｜分类｜自动更新
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="01·央视频道" ,CCTV-1
-http://74.91.26.218:82/live/cctv1hd.m3u8
+http://219.147.245.238:25480/newlive/live/hls/1/live.m3u8
 #EXTINF:-1 tvg-name="CCTV-2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="01·央视频道" ,CCTV-2
 http://107.150.60.122/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="01·央视频道" ,CCTV-3
@@ -10,8 +10,8 @@ http://219.147.245.238:25480/newlive/live/hls/3/live.m3u8
 http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="01·央视频道" ,CCTV-5
 http://207.56.13.146:81/cdnlive/cctv5.m3u8
-#EXTINF:-1 tvg-name="CCTV-5+" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5+.png" group-title="01·央视频道" ,CCTV-5+
-http://183.10.180.46:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="01·央视频道" ,CCTV-5+
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV-6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="01·央视频道" ,CCTV-6
 http://173.208.212.130:8181/1080p/cctv6.m3u8
 #EXTINF:-1 tvg-name="CCTV-7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="01·央视频道" ,CCTV-7
@@ -23,7 +23,7 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
 #EXTINF:-1 tvg-name="CCTV-10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV10.png" group-title="01·央视频道" ,CCTV-10
 http://74.91.26.218:82/live/cctv10hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-11" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV11.png" group-title="01·央视频道" ,CCTV-11
-http://74.91.26.218:82/live/cctv11hd.m3u8
+http://113.57.140.161:10081/newlive/live/hls/12/live.m3u8
 #EXTINF:-1 tvg-id="CCTV12.cn@SD" tvg-name="CCTV-12" group-title="01·央视频道" ,CCTV-12
 http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="01·央视频道" ,CCTV-13
@@ -50,6 +50,8 @@ https://stream1.freetv.fun/fd1abacd02d10bf9e60b98fdc292704eefa30cff9e4eb0816eec3
 https://stream1.freetv.fun/3ad6599415990b0f15bec3d681fb934f53a2f82aac7584375237a83573efe5c7.m3u8
 #EXTINF:-1 tvg-name="[BD]东方卫视" tvg-logo="https://epg.pw/media/images/channel/2023/06/05/large/20230605010227137581_33.jpg" group-title="02·卫视频道" ,[BD]东方卫视
 https://stream1.freetv.fun/936a731d0f0738a903c2968c7e4d48c09cc4bf042ad218afe2d91decd1032359.m3u8
+#EXTINF:-1 tvg-name="[BD]内蒙古卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160914023715_85.jpg" group-title="02·卫视频道" ,[BD]内蒙古卫视
+https://stream1.freetv.fun/1e5dc1f802d7775ea9cde7b7b874b914365797c6718c5e95448aa26648e136e6.m3u8
 #EXTINF:-1 tvg-name="[BD]天津卫视" tvg-logo="https://epg.pw/media/images/channel/2026/02/26/large/20260226025419139967_11.jpg" group-title="02·卫视频道" ,[BD]天津卫视
 https://stream1.freetv.fun/12bd529a4a4c275fc29906844719e95cac5107e284e27b33671bcf2f3c0a0ee6.m3u8
 #EXTINF:-1 tvg-name="[BD]宁夏卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531153504056322_25.jpg" group-title="02·卫视频道" ,[BD]宁夏卫视
@@ -70,6 +72,10 @@ https://stream1.freetv.fun/d2ea3a364fa453b29060ebccb5a06a1941755859c0182ab0f0714
 https://stream1.freetv.fun/ff50600dd45b1b1656f2f7535c04f361a6e8c33606e19dbc9b0316bd173f9408.m3u8
 #EXTINF:-1 tvg-name="[BD]江苏卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530225651709500_84.jpg" group-title="02·卫视频道" ,[BD]江苏卫视
 https://stream1.freetv.fun/d603dff9bd97cd0af111d22f7e7559d5811119df07427c3896440285361868da.ctv
+#EXTINF:-1 tvg-name="[BD]江西卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531144408646863_42.jpg" group-title="02·卫视频道" ,[BD]江西卫视
+https://stream1.freetv.fun/bc4d49bde015fc24aafb924423536d9ec2f09ad3d55313e4a482ba85ae48b175.m3u8
+#EXTINF:-1 tvg-name="[BD]河南卫视" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530233814283449_10.jpg" group-title="02·卫视频道" ,[BD]河南卫视
+https://stream1.freetv.fun/7331faf4032e9de329e2c041cd9fa6f95fad0683ef1937a7bbbb76322856b9eb.m3u8
 #EXTINF:-1 tvg-name="[BD]浙江卫视" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311112431672505_47.png" group-title="02·卫视频道" ,[BD]浙江卫视
 https://stream1.freetv.fun/7f280c90c0c7647b6816a25c4b4ec1732c7d84bd85d08cdd5f60489b14d7e33f.m3u8
 #EXTINF:-1 tvg-name="[BD]海峡卫视" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128060839855238_81.jpg" group-title="02·卫视频道" ,[BD]海峡卫视
@@ -964,10 +970,6 @@ http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
 http://198.204.228.26/live/chcdz.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC家庭影院.png" group-title="06·影视剧场" ,CHC家庭影院
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
-#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方影视.png" group-title="06·影视剧场" ,东方影视
-https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
-#EXTINF:-1 tvg-id="东阳影视生活" tvg-name="东阳影视生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东阳影视生活.png" group-title="06·影视剧场" ,东阳影视生活
-http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/风云剧场.png" group-title="06·影视剧场" ,风云剧场
 http://183.10.180.46:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="07·少儿动漫" ,金鹰卡通
