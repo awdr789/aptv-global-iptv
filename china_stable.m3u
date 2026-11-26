@@ -15,7 +15,7 @@ http://219.147.245.238:25480/newlive/live/hls/6/live.m3u8
 #EXTINF:-1 tvg-name="CCTV-6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="01·央视频道" ,CCTV-6
 http://120.40.39.246:352/newlive/live/hls/7/live.m3u8
 #EXTINF:-1 tvg-name="CCTV-7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="01·央视频道" ,CCTV-7
-http://222.223.41.27:8888/hls/7/index.m3u8
+http://219.147.245.238:25480/newlive/live/hls/8/live.m3u8
 #EXTINF:-1 tvg-name="CCTV-8" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV8.png" group-title="01·央视频道" ,CCTV-8
 http://173.208.212.130:8181/1080p/cctv8.m3u8
 #EXTINF:-1 tvg-name="CCTV-9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="01·央视频道" ,CCTV-9
@@ -25,7 +25,7 @@ http://112.123.243.37:50085/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid
 #EXTINF:-1 tvg-name="CCTV-11" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV11.png" group-title="01·央视频道" ,CCTV-11
 http://120.40.39.246:352/newlive/live/hls/12/live.m3u8
 #EXTINF:-1 tvg-name="CCTV-12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="01·央视频道" ,CCTV-12
-http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+http://120.40.39.246:352/newlive/live/hls/13/live.m3u8
 #EXTINF:-1 tvg-name="CCTV-13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="01·央视频道" ,CCTV-13
 https://event.pull.hebtv.com/jishi/cp1.m3u8
 #EXTINF:-1 tvg-name="CCTV-14" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV14.png" group-title="01·央视频道" ,CCTV-14
@@ -33,7 +33,7 @@ https://event.pull.hebtv.com/jishi/cp2.m3u8
 #EXTINF:-1 tvg-name="CCTV-15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="01·央视频道" ,CCTV-15
 http://118.122.144.115:8888/newlive/live/hls/16/live.m3u8
 #EXTINF:-1 tvg-name="CCTV-16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="01·央视频道" ,CCTV-16
-http://104.152.209.49:8181/720p/cctv16.m3u8
+http://219.147.245.238:25480/newlive/live/hls/17/live.m3u8
 #EXTINF:-1 tvg-id="CCTV17.cn@HD" tvg-name="CCTV-17" group-title="01·央视频道" ,CCTV-17
 http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/三沙卫视.png" group-title="02·卫视频道" ,三沙卫视
